@@ -1,5 +1,5 @@
 # minesweeper
-This project will teach you how to work with multidimensional arrays in Java. You will be dealing with algorithms for generating the playfield and processing player moves. You will also find out what collections and stacks are.
+This project will teach you how to work with arrays (Problem has been solved using one dimensional arrrays and data structures even though original question had asked to use multidimensional arrays if needed.) in Java. You will be dealing with algorithms for generating the playfield and processing player moves. You will also find out what collections and stacks are.
 
 ## Description
 In this stage, you will upgrade your program to act just like the original Minesweeper game! We won't show all the hints from the beginning anymore, but we will allow the player to explore the minefield by themselves, which is much more challenging and fun.
